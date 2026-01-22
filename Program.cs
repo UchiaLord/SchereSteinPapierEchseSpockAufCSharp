@@ -141,7 +141,10 @@
                 Console.WriteLine($"Aktuelle Statistik lauter Spieler 1 : {Spieler1Sieg} Siege; Spieler 2 : {Spieler2Sieg} Siege; Unentschieden: {Unetschieden}");
                 Console.WriteLine();
 
-
+                if (Spieler1Sieg > 3 || Spieler2Sieg > 2)
+                {
+                    Console.WriteLine("Viech oida!!!");
+                }
 
                 Console.WriteLine("\nNoch eine Runde? (Drücke 'n' zum Beenden, jede andere Taste zum Weitermachen)");
 
