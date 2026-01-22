@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\bin\Debug\net8.0\SchereSteinPapier.exe
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\bin\Debug\net8.0\SchereSteinPapier.deps.json
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\bin\Debug\net8.0\SchereSteinPapier.runtimeconfig.json
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\bin\Debug\net8.0\SchereSteinPapier.dll
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\bin\Debug\net8.0\SchereSteinPapier.pdb
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\obj\Debug\net8.0\SchereSteinPapier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\obj\Debug\net8.0\SchereSteinPapier.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\obj\Debug\net8.0\SchereSteinPapier.AssemblyInfo.cs
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\obj\Debug\net8.0\SchereSteinPapier.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\obj\Debug\net8.0\SchereSteinPapier.dll
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\obj\Debug\net8.0\refint\SchereSteinPapier.dll
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\obj\Debug\net8.0\SchereSteinPapier.pdb
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\obj\Debug\net8.0\SchereSteinPapier.genruntimeconfig.cache
+C:\Users\Student\Desktop\SchereSteinPapier\SchereSteinPapier\obj\Debug\net8.0\ref\SchereSteinPapier.dll
